@@ -1,0 +1,5 @@
+Nama: Nani Renova Hutagaol, Email: nanihutagaol@gmail.com, Gender: Perempuan, Alamat: Sigumpar, Username: nani, Password: nani
+Nama: Evita Veronika Sihombing, Email: evitavero@gmail.com, Gender: Perempuan, Alamat: Lintong, Username: evi, Password: evi
+Nama: Josua Sinaga, Email: josua.sinaga@yahoo.com, Gender: Laki-laki, Alamat: Porsea, Username: josi, Password: josi
+Nama: andreas, Email: andreasjr61@gmail.com, Gender: laki-laki, Alamat: balige, Username: andreas, Password: andreas
+Nama: juan, Email: juan, Gender: laki, Alamat: del, Username: juan, Password: juan

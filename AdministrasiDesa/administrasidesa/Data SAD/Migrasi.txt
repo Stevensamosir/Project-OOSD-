@@ -1,0 +1,2 @@
+NIK: 121212001, Alamat Sekarang: sigumpar, Alamat Tujuan: new york, Jumlah: 6, Status: Diterima, Request by: test
+NIK: 121212002, Alamat Sekarang: Lintong, Alamat Tujuan: Sitoluama, Jumlah: 5, Status: Diterima, Request by: nani
